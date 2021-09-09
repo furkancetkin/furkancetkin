@@ -1,5 +1,7 @@
 ### Hi there 👋, Furkan Cetkin
 #### Frontend Developer
+![Frontend Developer](https://media.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=790b7611c90fd7894b7894e135ebe03d098e77366fc27a9a&rid=giphy.gif&ct=g)
+
 I'm Furkan from Turkey. I develop myself in frontend technologies.
 
 Skills:  REACT / JS / HTML / CSS
@@ -10,4 +12,3 @@ Skills:  REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/furkancetkin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/furkancetkin//)  
-
