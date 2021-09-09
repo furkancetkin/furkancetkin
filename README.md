@@ -1,9 +1,9 @@
-![Frontend Developer](https://media.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=790b7611c90fd7894b7894e135ebe03d098e77366fc27a9a&rid=giphy.gif&ct=g)
-
 ### Hi there 👋, Furkan Cetkin
 #### Frontend Developer
 
 I'm Furkan from Turkey. I develop myself in frontend technologies.
+
+![Frontend Developer](https://media.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=790b7611c90fd7894b7894e135ebe03d098e77366fc27a9a&rid=giphy.gif&ct=g)
 
 ## Skills and Experience
 * ⚛️ React
