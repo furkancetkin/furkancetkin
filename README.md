@@ -8,8 +8,7 @@ I'm Furkan Cetkin from Turkey. I develop myself in frontend technologies.
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Javascript and React 
 - 📫 How to reach me: https://www.linkedin.com/in/furkancetkin/ 
 
