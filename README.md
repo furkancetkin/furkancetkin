@@ -6,10 +6,10 @@ I'm Furkan Cetkin from Turkey. I develop myself in frontend technologies.
 ![Frontend Developer](https://media.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=790b7611c90fd7894b7894e135ebe03d098e77366fc27a9a&rid=giphy.gif&ct=g)
 
 ## Skills and Experience
-* ⚛️ React
+* ⚛️ React, Vuejs
 * 💻 HTML, CSS, JS
  
-- 🌱 I’m currently learning Javascript and React 
+- 🌱 I’m currently learning Javascript and Nodejs 
 - 📫 How to reach me: https://www.linkedin.com/in/furkancetkin/ 
 
 
