@@ -9,7 +9,7 @@ I'm Furkan Cetkin from Turkey. I develop myself in frontend technologies.
 * ⚛️ React, Vuejs
 * 💻 HTML, CSS, JS
  
-- 🌱 I’m currently learning Javascript and Nodejs 
+- 🌱 I’m currently learning Nodejs 
 - 📫 How to reach me: https://www.linkedin.com/in/furkancetkin/ 
 
 
